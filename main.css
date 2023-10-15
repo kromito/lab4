@@ -9,13 +9,13 @@ html{font-family: Cambria, Georgia, Times, serif;
         padding-right: 30px;}
     li.nav{list-style-type: none;
         display: inline;
-        padding-left: 50px;
-        padding-right: 50px;
+        padding-left: 30px;
+        padding-right: 30px;
         font-size: 20px;}
     ul#nav{text-align: center;
         background-color: #C4D7B2;
-        padding-left: 50px;
-        padding-right: 50px;
+        padding-left: 30px;
+        padding-right: 30px;
         padding-top: 30px;
         padding-bottom: 30px;}
     a.navitem{color:black; 
