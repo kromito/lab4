@@ -3,7 +3,7 @@ html{font-family: Cambria, Georgia, Times, serif;
     h1#header{font-size: 5vw;
         padding-left: 5px;
         padding-right: 5px;}
-    p#tagline{font-size: 2vw;
+    p#tagline{font-size: 1vw;
         padding-bottom: 5px;
         padding-left: 5px;
         padding-right: 5px;}
@@ -24,8 +24,8 @@ html{font-family: Cambria, Georgia, Times, serif;
         padding-right: 30px;
         padding-bottom: 30px;
         padding-top: 10px;
-        font-size: 1.5vw;
+        font-size: .5vw;
         max-width: 1000px;}
     a{color:black; 
         text-decoration: none;}
-    footer{font-size: 1vw;}
+    footer{font-size: .25vw;}
